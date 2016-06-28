@@ -1,6 +1,6 @@
 ![](img/faircoop-e1431772196169.png)
 
-# Presentación de FairCoop
+# FairTalk: Presentación de FairCoop
 
 [FairCoop](https://fair.coop/es/): la cooperativa de la Tierra para la equidad económica.
 
@@ -14,18 +14,18 @@ La FairCoop entiende que la transformación hacia un sistema monetario más just
 
 a definir (septiembre?)
 
-# Organizan
-
-[Cátedra Libre de Nuevas Economías (UNLP)](https://clineunlp.wordpress.com), Dir. Pablo Gustavo Rodriguez
-
-[Cátedra Abierta Florial Gorini, Economía Popular y Solidaria (UNRC)](https://caflorealgorini.blogspot.com), Dir. Luis Barovero
-
 # Agenda
 
 1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 m)
 2) ronda de preguntas (15 m)
 3) recreo (15 m)
 4) demo (taller) (? m)
+
+# Organizan
+
+[Cátedra Libre de Nuevas Economías (UNLP)](https://clineunlp.wordpress.com), Dir. Pablo Gustavo Rodriguez
+
+[Cátedra Abierta Florial Gorini, Economía Popular y Solidaria (UNRC)](https://caflorealgorini.blogspot.com), Dir. Luis Barovero
 
 # Referencias
 
