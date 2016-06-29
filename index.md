@@ -1,5 +1,5 @@
 ---
-pagetitle: <pagetitle>
+pagetitle: FairTalk
 ---
 
 ![](img/faircoop-e1431772196169.png)
