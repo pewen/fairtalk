@@ -18,6 +18,10 @@ La FairCoop entiende que la transformación hacia un sistema monetario más just
 
 a definir (septiembre?)
 
+# Lugar
+
+La presentación será transmitida por Internet. Cualquier persona interesada podrá acceder libremente al evento.
+
 # Agenda
 
 1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min)
@@ -30,6 +34,14 @@ a definir (septiembre?)
 [Cátedra Libre de Nuevas Economías (UNLP)](https://clineunlp.wordpress.com), Dir. Pablo Gustavo Rodriguez
 
 [Cátedra Abierta Florial Gorini, Economía Popular y Solidaria (UNRC)](https://caflorealgorini.blogspot.com), Dir. Luis Barovero
+
+# Coordinan
+
+Marohf, FairCoop.
+
+Pablo Gustavo Rodriguez, Facultad de Ciencias Naturales y Museo, UNLP.
+
+Daniel Bellomo, Facultad de Ciencias Económicas, UNRC.
 
 # Referencias
 
