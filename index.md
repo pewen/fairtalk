@@ -20,7 +20,7 @@ a definir (septiembre?)
 
 # Lugar
 
-La presentación será transmitida por Internet. Cualquier persona interesada podrá acceder libremente al evento.
+La presentación será transmitida por Internet. Toda persona interesada podrá acceder libremente al evento.
 
 # Agenda
 
