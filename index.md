@@ -36,3 +36,5 @@ a definir (septiembre?)
 [FairCoop en un vistazo](https://fair.coop/es/faircoop-en-un-vistazo)
 
 ["Faircoop: La cooperativa de la tierra para la equidad económica" por Pablo Gómez Prieto](https://www.youtube.com/watch?v=HPsRgt-Oo38)
+
+![](img/FlorealGorini.png)
