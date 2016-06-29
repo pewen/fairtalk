@@ -6,11 +6,8 @@
 # article
 # margen setup: https://stackoverflow.com/questions/13515893/set-margin-size-when-converting-from-markdown-to-pdf-with-pandoc#13516042
 
-
-TITLE="FairTalk"
-
 %.html: %.md
-	pandoc -s -f markdown -t html --css css/pandoc.css -T $(TITLE) -s -o $@ $<
+	pandoc -s --template "_layout" -f markdown -t html5 --css css/pandoc.css -s -o $@ $<
 
 clean:
 	rm *.html
