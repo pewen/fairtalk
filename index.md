@@ -16,10 +16,10 @@ a definir (septiembre?)
 
 # Agenda
 
-1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 m)
-2) ronda de preguntas (15 m)
-3) recreo (15 m)
-4) workshop: descarga y uso del monedero en android, envío de faircoins (? m)
+1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min)
+2) ronda de preguntas (15 min)
+3) recreo (15 min)
+4) workshop: descarga y uso del monedero en android, envío de faircoins (? min)
 
 # Organizan
 
