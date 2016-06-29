@@ -19,7 +19,7 @@ a definir (septiembre?)
 1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 m)
 2) ronda de preguntas (15 m)
 3) recreo (15 m)
-4) demo (taller) (? m)
+4) workshop: descarga y uso del monedero en android, envío de faircoins (? m)
 
 # Organizan
 
