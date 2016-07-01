@@ -4,7 +4,9 @@ pagetitle: FairTalk
 banner : img/faircoop-e1431772196169.png
 ---
 
-# FairTalk: Presentación de FairCoop
+# FairTalk
+
+#### Presentación de FairCoop
 
 [FairCoop](https://fair.coop/es/): la cooperativa de la Tierra para la equidad económica.
 
