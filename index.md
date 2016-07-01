@@ -1,8 +1,8 @@
 ---
 pagetitle: FairTalk
----
 
-![](img/faircoop-e1431772196169.png)
+banner : img/faircoop-e1431772196169.png
+---
 
 # FairTalk: Presentación de FairCoop
 

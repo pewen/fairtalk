@@ -51,6 +51,13 @@ $if(date)$
 $endif$
 </header>
 $endif$
+
+$if(banner)$
+<figure>
+  <img src="$banner$" alt="banner principal" />
+</figure>
+$endif$
+  
 $if(toc)$
 <nav id="$idprefix$TOC">
 $toc$
