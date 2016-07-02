@@ -41,7 +41,7 @@ La presentación será transmitida por Internet. Toda persona interesada podrá 
 
 # Coordinan
 
-Marohf, FairCoop.
+Maro Horta Fernandez *(Marohf)*, FairCoop.
 
 Pablo Gustavo Rodriguez, Facultad de Ciencias Naturales y Museo, UNLP.
 

@@ -26,6 +26,10 @@ $endif$
 $for(css)$
   <link rel="stylesheet" href="$css$">
 $endfor$
+$if(bootstrap)$
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+$endif$
 $if(math)$
   $math$
 $endif$
@@ -59,8 +63,10 @@ $if(banner)$
 $endif$
   
 $if(toc)$
-<nav id="$idprefix$TOC">
-$toc$
+<nav id="$idprefix$TOC" class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    $toc$
+  </div><!--container -->
 </nav>
 $endif$
 $body$
