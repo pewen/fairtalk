@@ -1,14 +1,9 @@
 ---
-pagetitle: FairTalk
-
-banner : img/faircoop-e1431772196169.png
-
-license: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+layout: default
+title: {{ site.name }}
 ---
 
-# FairTalk
-
-#### Presentación de FairCoop
+![](img/faircoop-e1431772196169.png)
 
 [FairCoop](https://fair.coop/es/): la cooperativa de la Tierra para la equidad económica.
 
@@ -20,7 +15,7 @@ La FairCoop entiende que la transformación hacia un sistema monetario más just
 
 # Fecha
 
-a definir (septiembre?)
+a definir
 
 # Lugar
 
@@ -28,10 +23,11 @@ La presentación será transmitida por Internet. Toda persona interesada podrá 
 
 # Agenda
 
-1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min)
-2) ronda de preguntas (15 min)
-3) recreo (15 min)
-4) workshop: descarga y uso del monedero en android, envío de faircoins (? min)
+1) descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min) (Marohf)
+2) proyectos concretos que se están haciendo en Argentina (Pablo)
+3) ronda de preguntas (15 min)
+4) recreo (15 min)
+5) workshop: descarga y uso del monedero en android, envío de faircoins (? min)
 
 # Organizan
 
@@ -58,5 +54,11 @@ Daniel Bellomo, Facultad de Ciencias Económicas, UNRC.
 [Faircoop: La cooperativa de la tierra para la equidad económica por Pablo Gómez Prieto](https://www.youtube.com/watch?v=HPsRgt-Oo38)
 
 [Presentación de FairCoop en MeetsMadrid por Marohf](https://pewen.github.io/fairtalk/presentaciones/FairCoop_MeetsMadrid.pdf)
+
+[Guía Economía Solidaria](https://pewen.github.io/fairtalk/presentaciones/GuiaEconomiaSolidaria-ES_v01.pdf)
+
+[Díptico](https://pewen.github.io/fairtalk/presentaciones/DipticFC_ES_julio2016_x2.pdf)
+
+[Web de FairCoop](http://fair.coop/es/)
 
 ![](img/FlorealGorini.png)
