@@ -23,10 +23,10 @@ La presentación será transmitida por Internet. Toda persona interesada podrá 
 
 # Agenda
 
-> descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min) (Marohf)
-> proyectos concretos que se están haciendo en Argentina (Pablo)
-> ronda de preguntas (15 min)
-> recreo (15 min)
+> descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min) (Marohf)  
+> proyectos concretos que se están haciendo en Argentina (Pablo)  
+> ronda de preguntas (15 min)  
+> recreo (15 min)  
 > workshop: descarga y uso del monedero en android, envío de faircoins (? min)
 
 # Organizan
@@ -37,9 +37,9 @@ La presentación será transmitida por Internet. Toda persona interesada podrá 
 
 # Coordinan
 
-> Maro Horta Fernandez *(Marohf)*, FairCoop.
-> Pablo Gustavo Rodriguez, Facultad de Ciencias Naturales y Museo, UNLP.
-> Daniel Bellomo, Facultad de Ciencias Económicas, UNRC.
+> Maro Horta Fernandez *(Marohf)*, FairCoop.  
+> Pablo Gustavo Rodriguez, Facultad de Ciencias Naturales y Museo, UNLP.  
+> Daniel Bellomo, Facultad de Ciencias Económicas, UNRC.  
 
 # Referencias
 
