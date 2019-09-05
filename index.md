@@ -15,31 +15,18 @@ La FairCoop entiende que la transformación hacia un sistema monetario más just
 
 # Fecha
 
-a definir
-
-# Lugar
-
-La presentación será transmitida por Internet. Toda persona interesada podrá acceder libremente al evento.
 
 # Agenda
 
-> descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line. (45 min) (Marohf)  
-> proyectos concretos que se están haciendo en Argentina (Pablo)  
-> ronda de preguntas (15 min)  
-> recreo (15 min)  
-> workshop: descarga y uso del monedero en android, envío de faircoins (? min)
+> descentralización, P2P criptomoneda, economía social, sistema monetario, construcción de alternativas, formas de organización on line.
+> proyectos concretos que se están haciendo en Argentina
+> ronda de preguntas (15 min)
+> recreo (15 min)
+> workshop: descarga y uso del monedero en android, envío de faircoins
 
-# Organizan
+# Coordina
 
-[Cátedra Libre de Nuevas Economías (UNLP)](https://clineunlp.wordpress.com), Dir. Pablo Gustavo Rodriguez
-
-[Cátedra Abierta Florial Gorini, Economía Popular y Solidaria (UNRC)](https://caflorealgorini.blogspot.com), Dir. Luis Barovero
-
-# Coordinan
-
-> Maro Horta Fernandez *(Marohf)*, FairCoop.  
-> Pablo Gustavo Rodriguez, Facultad de Ciencias Naturales y Museo, UNLP.  
-> Daniel Bellomo, Facultad de Ciencias Económicas, UNRC.  
+> Daniel Bellomo
 
 # Referencias
 
@@ -58,5 +45,3 @@ La presentación será transmitida por Internet. Toda persona interesada podrá 
 [Díptico](https://pewen.github.io/fairtalk/presentaciones/DipticFC_ES_julio2016_x2.pdf)
 
 [Web de FairCoop](http://fair.coop/es/)
-
-![](img/FlorealGorini.png)
